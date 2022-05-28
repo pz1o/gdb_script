@@ -26,10 +26,10 @@ end
 - show the offset of a struct by finding a symbol
 
 ```
-offset symbol
+offset symbol/struct
 ```
 
-![image-20220528181528238](README/image-20220528181528238.png)
+![image-20220528191512337](README/image-20220528191512337.png)
 
 ...
 
